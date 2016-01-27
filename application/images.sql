@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `images`
 --
-USE `images`;
+
 CREATE TABLE IF NOT EXISTS `images` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `filename` varchar(256) NOT NULL,
